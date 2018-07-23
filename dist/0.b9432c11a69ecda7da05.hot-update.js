@@ -1,0 +1,1 @@
+webpackHotUpdate(0,{12:function(r,n,o){var a=o(47);(r.exports=o(46)(!1)).push([r.i,"#mul{\r\n  color: yellow;\r\n}\r\n#main{\r\n  background: url("+a(o(45))+")\r\n}",""])}});
