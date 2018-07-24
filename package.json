@@ -1,14 +1,14 @@
 {
-  "name": "1",
+  "name": "React-webpack-Interlaced-discoloration",
   "version": "1.0.0",
-  "description": "",
+  "description": "React-webpack4.0-Creat",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack --watch",
     "pub": "webpack --config webpack.config.publish.js"
   },
-  "author": "",
+  "author": "Amor",
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.26.0",
