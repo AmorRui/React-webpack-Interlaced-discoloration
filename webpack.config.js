@@ -16,6 +16,8 @@ module.exports = {
     path: path.join(__dirname, 'dist'),
     filename: 'bundle.js'
   },
+  // 指定是  development  和  production 模式，none选择退出任何默认优化选项
+  mode: 'none',
   // 配置loader
   module:{
     // 配置文件解析的规则
